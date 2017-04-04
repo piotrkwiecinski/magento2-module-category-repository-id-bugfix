@@ -4,7 +4,7 @@ Bugfix for catalog repository cherry picked from https://github.com/magento/mage
 Installation via composer:
 
 ```
-composer require "piotrkwiecinski/magento2-module-category-repository-id-bugfix: 0.1.0"
+composer require "piotrkwiecinski/magento2-module-category-repository-id-bugfix: 0.1.1"
 ```
 
 Run from Magento 2 root directory:
